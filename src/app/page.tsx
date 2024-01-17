@@ -1,6 +1,8 @@
-import Map from "@/components/Map";
-import Markers from "@/components/Markers";
-import StoreBox from "@/components/StoreBox";
+import { lazy } from "react"
+
+const Map = lazy(() => import('@/components/Map'));
+const Markers = lazy(() => import('@/components/Markers'));
+const StoreBox = lazy(() => import('@/components/StoreBox'));
 import { StoreType } from "@/interface";
 import CurrentLocationButton from "@/components/CurrentLocationButton";
 
