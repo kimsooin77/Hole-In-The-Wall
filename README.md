@@ -5,7 +5,7 @@
 <br />
 
 ## 사이트 링크
-https://hole-in-the-wall.vercel.app/
+https://hole-in-the-wall-restaurant.vercel.app/
 
 <br />
 
